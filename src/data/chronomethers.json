@@ -1,0 +1,27 @@
+[
+    {
+        "id": 1,
+        "title": "Aprendiendo React",
+        "project": "React",
+        "started": false,
+        "time": 0,
+        "editing": false
+    },
+    {
+        "id": 2,
+        "title": "Aprendiendo Redux",
+        "project": "Redux",
+        "started": true,
+        "time": 1200,
+        "editing": true
+    },
+    {
+        "id": 3,
+        "title": "Aprendiendo GraphQL",
+        "project": "GraphQL",
+        "started": false,
+        "time": 100000,
+        "editing": false
+    }
+
+]
